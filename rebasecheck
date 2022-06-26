@@ -1,3 +1,4 @@
-remote localbranch1 rebase change1
+remote and local branch rebase merge conflict solved 
+localbranch1 rebase change1
 change 1
 
